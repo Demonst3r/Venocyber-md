@@ -741,7 +741,7 @@ const {
        return await _0x5e533c.reply("*Huh, I can't kick my Creator!!*");
      }
      await _0x5e533c.bot.groupParticipantsUpdate(_0x5e533c.chat, [_0x4e844a], "remove");
-     await _0x5e533c.send("*Hurray, @" + _0x4e844a.split("@")[0] + " Kicked Succesfully!*", {
+     await _0x5e533c.send("*Hurray,one idiot kicked out successful 🥰😘" + _0x4e844a.split("@")[0] + " Kicked Succesfully!*", {
        mentions: [_0x4e844a]
      });
    } catch (_0x14d7b9) {
